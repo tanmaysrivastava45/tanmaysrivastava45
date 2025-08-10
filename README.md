@@ -2,7 +2,7 @@
 <p align="center">Hi 👋, I'm Tanmay Srivastava.</p>
 <p align="center">Pursuing BTech in Information Technology(2023-27) from NIT Raipur.</p>  
 
-<p align="center">Intrested and Passionate in Wev Development and DSA.</p>
+<p align="center">Interested and Passionate in Wev Development and DSA.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-srivastava-ba5513287/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanmaysrivastava9868@gmail.com) 
