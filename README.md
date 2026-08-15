@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysrivastava45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanmaysrivastava45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-ruddy.vercel.app/?username=tanmaysrivastava45&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20)
 
 ---
 ## 🏆 Hacktoberfest'24 Badges
